@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Dr. Name"; ObjectID = "4Xf-DY-QK1"; */
+"4Xf-DY-QK1.text" = "Dr. Name";
+
+/* Class = "UILabel"; text = "Titulo"; ObjectID = "Gxz-WN-Q4B"; */
+"Gxz-WN-Q4B.text" = "Titulo";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "Hi4-ux-JLe"; */
+"Hi4-ux-JLe.text" = "name";
+
+/* Class = "UITabBarItem"; title = "Constraints"; ObjectID = "Mb4-gt-Dio"; */
+"Mb4-gt-Dio.title" = "Constraints";
+
+/* Class = "UILabel"; text = "mensagem"; ObjectID = "l10-wN-0iJ"; */
+"l10-wN-0iJ.text" = "mensagem";
+
+/* Class = "UILabel"; text = "10:10"; ObjectID = "xkn-Hf-tzm"; */
+"xkn-Hf-tzm.text" = "10:10";
+
+/* Class = "UILabel"; text = "1/1/20"; ObjectID = "xxZ-f0-pYQ"; */
+"xxZ-f0-pYQ.text" = "1/1/20";
+
+/* Class = "UITabBarItem"; title = "StackView"; ObjectID = "yXZ-Hr-7on"; */
+"yXZ-Hr-7on.title" = "StackView";
