@@ -7,5 +7,5 @@ We explored things like:
 - Increase contrast
 - Dynamic Type
 - Dynamic Type with custom fonts
-- Dynamic Type with tableViews
+- Dynamic Type with programatically constraints
 - Dynamic Type with stackViews
